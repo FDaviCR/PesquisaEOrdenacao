@@ -1,3 +1,4 @@
 # PesquisaEOrdenacao
 
-Analise do desempenho de algoritmos usados para pesquisa e ordenação, a analise verifica um caso aleatorio comparado com os piores casos para cada algoritmo.
+Analise do desempenho de algoritmos usados para pesquisa e ordenação, a analise verifica um caso aleatorio comparado ao pior caso para cada algoritmo.
+Comparação realizada com um grafico criado em imagem anexa ao fim do processamento.
